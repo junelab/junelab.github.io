@@ -2,4 +2,4 @@
 google.com, pub-9020791501513671, DIRECT, f08c47fec0942fa0
 
 # AppLovin
-applovin.com, 본인의_Account_ID, DIRECT, f08c47fec0942fa0
+# applovin.com, 본인의_Account_ID, DIRECT, f08c47fec0942fa0
